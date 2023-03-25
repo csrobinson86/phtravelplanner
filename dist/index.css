@@ -55,3 +55,8 @@
     font-family: 'Josefin Sans', sans-serif;
     background-image: url(homepage-background.webp);
   }
+
+  h1,
+  h2 {
+    font-color: white;
+  }
